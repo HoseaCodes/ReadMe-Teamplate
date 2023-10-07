@@ -181,7 +181,7 @@ List any resources, libraries, or tools that you used or were inspired by during
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-```
+
 
 Feel free to customize the content and replace placeholders with your project-specific information.
 
