@@ -46,7 +46,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot](https://i.imgur.com/0S8LboD.png)](https://example.com)
+[![Product Name Screen Shot]([https://i.imgur.com/0S8LboD.png](https://i.imgur.com/mB89whp.jpg))](https://example.com)
 
 Provide a brief description of your project and its purpose. Explain why it's useful and how it can benefit users.
 
